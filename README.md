@@ -1,4 +1,4 @@
-![logo](https://github.com/shantuA/shantuA/blob/main/GITHUB_BANNER_ONE.png)
+![logo](https://github.com/shantuA/shantuA/blob/main/GITHUB_BANNER.png)
 <h1 align="center">Hi I'm shanthkumar Andure</h1>
 <h3 align="center">A passionate python developer</h3>
 
