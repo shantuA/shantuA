@@ -1,6 +1,5 @@
 ![logo](https://github.com/shantuA/shantuA/blob/main/github-header-image.png)
-<h1 align="center">Hi I'm shanthkumar Andure</h1>
-<h3 align="center">A passionate python developer</h3>
+
 
 <img align="right" alt="coding" width="400" src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-coding-clipart-the-kid-sitting-in-front-of-the-computer-screen-vector-png-image_6801880.png">
 
